@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveBlur", "RemoveBlur.csproj", "{5E764A6A-FA91-4CF5-B0BC-DC0E89B41914}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E764A6A-FA91-4CF5-B0BC-DC0E89B41914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E764A6A-FA91-4CF5-B0BC-DC0E89B41914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E764A6A-FA91-4CF5-B0BC-DC0E89B41914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E764A6A-FA91-4CF5-B0BC-DC0E89B41914}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA4A1B6C-D80F-4310-8542-D9CA73EC9E28}
+	EndGlobalSection
+EndGlobal

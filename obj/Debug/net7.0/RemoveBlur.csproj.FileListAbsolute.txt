@@ -1,0 +1,14 @@
+D:\Codigos\C#\RemoveBlur\bin\Debug\net7.0\RemoveBlur.exe
+D:\Codigos\C#\RemoveBlur\bin\Debug\net7.0\RemoveBlur.deps.json
+D:\Codigos\C#\RemoveBlur\bin\Debug\net7.0\RemoveBlur.runtimeconfig.json
+D:\Codigos\C#\RemoveBlur\bin\Debug\net7.0\RemoveBlur.dll
+D:\Codigos\C#\RemoveBlur\bin\Debug\net7.0\RemoveBlur.pdb
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\RemoveBlur.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\RemoveBlur.AssemblyInfoInputs.cache
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\RemoveBlur.AssemblyInfo.cs
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\RemoveBlur.csproj.CoreCompileInputs.cache
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\RemoveBlur.dll
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\refint\RemoveBlur.dll
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\RemoveBlur.pdb
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\RemoveBlur.genruntimeconfig.cache
+D:\Codigos\C#\RemoveBlur\obj\Debug\net7.0\ref\RemoveBlur.dll
