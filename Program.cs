@@ -11,11 +11,11 @@ async Task main()
     {
         HttpClient client = new HttpClient();
 
-        WriteLine("URL:\n> ");
+        Write("URL:\n> ");
         string url = ReadLine();
 
         string page = await client.GetStringAsync(url);
-        string name = "Exercicio qualquer";
+        string name = "test"; // <-- name change
         string cssClass = "class=\"styles__BlurContentContainer-sc-1iq53xf-0 cVgapz paywall blur-content\"";
 
         WriteLine(await RespondeAi.RemoveBlur(
